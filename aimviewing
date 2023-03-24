@@ -1,2 +1,2 @@
-remaked by hell#3506
+-- remaked by hell#3506
 loadstring(game:HttpGet('https://scripts.luawl.com/hosted/2416/18017/hellsremake.lua'))()
